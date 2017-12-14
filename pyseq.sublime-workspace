@@ -1,0 +1,1910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"velo",
+				"velocity_y"
+			],
+			[
+				"veloc",
+				"velocity_x"
+			],
+			[
+				"Sequ",
+				"SequencerApp"
+			],
+			[
+				"bask",
+				"basketed_product"
+			],
+			[
+				"ProductBundle",
+				"ProductBundleFromRecentActivitySearcher\t(api.py)"
+			],
+			[
+				"Basket",
+				"BasketedProductFactory\tclass"
+			],
+			[
+				"autocomplete_sugge",
+				"autocomplete_suggestion_search_analyzer"
+			],
+			[
+				"autocomplete_suggest",
+				"autocomplete_suggestion_search_analyzer\t(analysis.py)"
+			],
+			[
+				"english",
+				"english_possessive_stemmer"
+			],
+			[
+				"engli",
+				"english_synonyms"
+			],
+			[
+				"anal",
+				"analysis"
+			],
+			[
+				"_app",
+				"_apply_aggregations"
+			],
+			[
+				"Top",
+				"TopHitsAggregationMixin\tclass"
+			],
+			[
+				"elasticsear",
+				"elasticsearch_dsl"
+			],
+			[
+				"TopHi",
+				"TopHitsAggregationTestMixin\tmodule"
+			],
+			[
+				"Attr",
+				"AttributeError\t(documents.py)"
+			],
+			[
+				"elast",
+				"elasticsearch_dsl.search.Search.execute"
+			],
+			[
+				"elasticsearch_dsl",
+				"elasticsearch_dsl.search.Search.execute\t(presenters_tests.py)"
+			],
+			[
+				"elastic",
+				"elasticsearch_dsl"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"Suggest",
+				"SuggestedSearchFeatureDocument\t(documents.py)"
+			],
+			[
+				"_apply",
+				"_apply_aggregations\t(search_mixins.py)"
+			],
+			[
+				"top_hits",
+				"top_hits_key"
+			],
+			[
+				"aggreg",
+				"aggregation_definition"
+			],
+			[
+				"Suggested",
+				"SuggestedSearchFeatureDocument\t(searchers.py)"
+			],
+			[
+				"elasticsea",
+				"elasticsearch_dsl\t(presenters_tests.py)"
+			],
+			[
+				"respon",
+				"response_data"
+			],
+			[
+				"Suggeste",
+				"SuggestedSearchFeatureDocument"
+			],
+			[
+				"aggre",
+				"aggregation_key"
+			],
+			[
+				"aggregation",
+				"aggregation_key"
+			],
+			[
+				"Subject",
+				"SubjectKeyword\tclass"
+			],
+			[
+				"aggregat",
+				"aggregation_key\t(searchers.py)"
+			],
+			[
+				"Catego",
+				"CategoryFactory"
+			],
+			[
+				"Autocom",
+				"AutocompleteSuggestedSearchesSearcher"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"_appl",
+				"_apply_available_filters\t(searchers.py)"
+			],
+			[
+				"plural",
+				"plural_full_name"
+			],
+			[
+				"SuggestedS",
+				"SuggestedSearchFeatureDocument\tclass"
+			],
+			[
+				"Autoc",
+				"AutocompleteSuggestedSearchesSearcher"
+			],
+			[
+				"agre",
+				"aggregation_name"
+			],
+			[
+				"sing",
+				"singular_name"
+			],
+			[
+				"Sugges",
+				"SuggestedSearchFeatureDocument"
+			],
+			[
+				"Auto",
+				"AutocompleteSuggestedSearchesSearcher\t(searchers.py)"
+			],
+			[
+				"_perfor",
+				"_perform_individual_search\tfunction"
+			],
+			[
+				"feat",
+				"feature_type"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"rel",
+				"related_name"
+			],
+			[
+				"gallery_sale",
+				"gallery_sale_product_doc"
+			],
+			[
+				"provid",
+				"provider_sale_product_doc\tstatement"
+			],
+			[
+				"get_es_",
+				"_get_es_formatted_response"
+			],
+			[
+				"docum",
+				"document_dicts"
+			],
+			[
+				"galler",
+				"gallery_sale_product_doc"
+			],
+			[
+				"provider_sale_prod",
+				"provider_sale_product_doc"
+			],
+			[
+				"elasticse",
+				"elasticsearch_dsl\t(searchers.py)"
+			],
+			[
+				"ProductProviderArt",
+				"ProductProviderArtistSaleListView"
+			],
+			[
+				"ProductPori",
+				"ProductProviderArtistSaleListView"
+			],
+			[
+				"ProductProviderSale",
+				"ProductProviderSaleListView"
+			],
+			[
+				"ProductTerm",
+				"ProductTermSearcher"
+			],
+			[
+				"ProductPro",
+				"ProductProviderSaleListView"
+			],
+			[
+				"ProductProvider",
+				"ProductProviderSaleListView\t(api.py)"
+			],
+			[
+				"_get_produc",
+				"_get_products_from_elastic_search\t(presenters.py)"
+			],
+			[
+				"TheFea",
+				"ThemeFeatureDocument\t(documents.py)"
+			],
+			[
+				"_get_ar",
+				"_get_artists_searcher\tfunction"
+			],
+			[
+				"_perfo",
+				"_perform_individual_search"
+			],
+			[
+				"perform",
+				"_perform_individual_search"
+			],
+			[
+				"BaseEnd",
+				"BaseEndpointListView"
+			],
+			[
+				"BaseA",
+				"BaseAPIEndpointMixin"
+			],
+			[
+				"Product",
+				"ProductSerializer"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"_get_s",
+				"_get_suggested_searches_searcher"
+			],
+			[
+				"subject",
+				"subject\t(documents.py)"
+			],
+			[
+				"category",
+				"category"
+			],
+			[
+				"suggested",
+				"suggested_results"
+			],
+			[
+				"Sugge",
+				"SuggestedSearchFeatureDocument"
+			],
+			[
+				"Theme",
+				"ThemeFeatureDocument\t(documents.py)"
+			],
+			[
+				"Feature",
+				"FeatureDocument"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"availabl",
+				"available_doc_types\tstatement"
+			],
+			[
+				"create",
+				"create_document"
+			],
+			[
+				"ELASTI",
+				"ELASTICSEARCH_ENABLED"
+			],
+			[
+				"carous",
+				"carousel_image_width\t(presenters_tests.py)"
+			],
+			[
+				"exa",
+				"example-carousel.jpg"
+			],
+			[
+				"carou",
+				"carousel_image_height"
+			],
+			[
+				"ima",
+				"image_model"
+			],
+			[
+				"get_im",
+				"get_image_field\tfunction"
+			],
+			[
+				"image_",
+				"image_field"
+			],
+			[
+				"get_image_model",
+				"get_image_model_instance\t(presenters.py)"
+			],
+			[
+				"Editor",
+				"EditorsPicksPresenter\t(presenters.py)"
+			],
+			[
+				"prese",
+				"presenters"
+			],
+			[
+				"au",
+				"AUTOCOMPLETE_IMAGE_DIMENSIONS\tstatement"
+			],
+			[
+				"seria",
+				"serializers"
+			],
+			[
+				"FEATURE_",
+				"FEATURE_THEME"
+			],
+			[
+				"AUTOCOMPLETE",
+				"AUTOCOMPLETE_IMAGE_DIMENSIONS\t(presenters.py)"
+			],
+			[
+				"SerializerM",
+				"SerializerMethodField"
+			],
+			[
+				"AutocompleteProd",
+				"AutocompleteProductResultSerializer"
+			],
+			[
+				"ELAS",
+				"ELASTICSEARCH_ENABLED"
+			],
+			[
+				"assertEqu",
+				"assertEquals"
+			],
+			[
+				"obj",
+				"obj\tparam"
+			],
+			[
+				"Style",
+				"StyleFactory\t(factories.py)"
+			],
+			[
+				"Photo",
+				"PhotographyCategoryFactory\t(factories.py)"
+			],
+			[
+				"get_docume",
+				"generate_document_id\tfunction"
+			],
+			[
+				"suggest",
+				"suggested_search\t(searchers.py)"
+			],
+			[
+				"SEO",
+				"SeoMetaDataPresenter\t(presenters.py)"
+			],
+			[
+				"Autocomplete",
+				"AutocompleteSuggestionsSearcher"
+			],
+			[
+				"ser",
+				"Serializer\tclass"
+			],
+			[
+				"feature_doc",
+				"feature_doc_types"
+			],
+			[
+				"Seria",
+				"SerializerMethodField"
+			],
+			[
+				"seriali",
+				"SerializerMethodField"
+			],
+			[
+				"_get_doc",
+				"_get_document_id_field"
+			],
+			[
+				"get_docu",
+				"_get_document_search_score\tfunction"
+			],
+			[
+				"number",
+				"number_of_shards"
+			],
+			[
+				"ELASTICSEAR",
+				"ELASTICSEARCH_INDICES\t(documents.py)"
+			],
+			[
+				"Generic",
+				"GenericForeignKey\tclass"
+			],
+			[
+				"content",
+				"contenttypes\tmodule"
+			],
+			[
+				"_get_do",
+				"_get_document_description_field\tfunction"
+			],
+			[
+				"AutocompleteArtist",
+				"AutocompleteArtistResultField"
+			],
+			[
+				"BaseAPI",
+				"BaseAPIEndpointRetrieveView"
+			],
+			[
+				"BaseAP",
+				"BaseAPIEndpointRetrieveView\t(api.py)"
+			],
+			[
+				"Ser",
+				"Serializer"
+			],
+			[
+				"AutocompleteArt",
+				"AutocompleteArtistResultField"
+			],
+			[
+				"AutocompletePr",
+				"AutocompleteProductResultField"
+			],
+			[
+				"Serializ",
+				"SerializerMethodField\tclass"
+			],
+			[
+				"lang",
+				"lang_code"
+			],
+			[
+				"searcher",
+				"searcher\tstatement"
+			],
+			[
+				"Autocomp",
+				"AutocompleteEditorsPicksSearcher"
+			],
+			[
+				"editors_picks_searcher",
+				"editors_picks_searcher"
+			],
+			[
+				"BaseENd",
+				"BaseEndpointListView"
+			],
+			[
+				"AutoCompleteFeatu",
+				"AutocompleteFeaturesResultField"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 263,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from kivy.app import App"
+			}
+		},
+		{
+			"contents": "#:kivy 1.10.0\n<Sequencer>:\n\tcanvas:\n\t\tRectangle:\n\t\t\tpos: self.center_x -5, 0\n\t\t\tsize: 10, self.height\n\n\tLabel:\n\t\tfont_size: 70\n\t\tcenter_x: root.width / 4\n\t\ttop: root.top - 50\n\t\ttext: \"0\"\n\n\tLabel:\n\t\tfont_size: 70\n\t\tcenter_x: root.width * 3 / 4\n\t\ttop: root.top - 50\n\t\ttext: \"0\"\n\n<ChannelPage>:\n\tcanvas:\n\t\tRectangle\n\n<StepButton>:\n\tsize: 50, 50\n\tcanvas:\n\t\tRectangle:\n\t\t\tpos: self.pos\n\t\t\tsize: self.size",
+			"file": "sequencer.kv",
+			"file_size": 362,
+			"file_write_time": 131546297525209209,
+			"settings":
+			{
+				"buffer_size": 399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 411.0,
+		"last_filter": "blame",
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"vim",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"vin",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"checkout",
+				"Git: Checkout"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git ch",
+				"Git: Checkout"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ctrl",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"git help",
+				"Git: Help"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"branch",
+				"Git: Change Branch"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git:",
+				"Git: Track Remote Branch"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"toggle",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"vinta",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"vim con",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vintag",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"pep8",
+				"User: Jump to next Python Flake8 Lint error"
+			],
+			[
+				"vintage",
+				"Vintageous: Toggle Vim Ctrl Keys"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 797.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git",
+			"help(hashlib.md5)",
+			"hashlib.md5(u'test').hexdigest()",
+			"hashlib.md5('test').hexdigest()",
+			"import hashlib",
+			"import django",
+			"import djanog",
+			"import pip",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dyballd/projects/pyseq"
+	],
+	"file_history":
+	[
+		"/home/dyballd/projects/pyseq/pyseq.sublime-project",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/tests/searcher_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/searcher_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/mixins.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/api_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/documents.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/profiles/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/views/api.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/searchers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/tests/api_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/profiles/history.py",
+		"/home/dyballd/projects/world/bauhaus/lib/track/utils.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/search_mixins.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/analysis.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/models.py",
+		"/home/dyballd/projects/world/bauhaus/configs/development/local_settings.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/search_mixins.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/views/api.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/searchers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/checkout/models.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/views/api.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch_dsl/__init__.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch_dsl/field.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch_dsl/mapping.py",
+		"/home/dyballd/projects/world/bauhaus/urls/api.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/searchers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/utils_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/search_mixin_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/tests/presenters_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/data/feature_aggregations_response.json",
+		"/home/dyballd/projects/world/bauhaus/apps/search/response.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/data/product_document_response.json",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/search_mixins.py",
+		"/home/dyballd/projects/world/bauhaus/static/vue/quicksearch/components/result_item.js",
+		"/home/dyballd/projects/world/bauhaus/static/vue/quicksearch/components/results.js",
+		"/home/dyballd/projects/world/bauhaus/static/vue/quicksearch/app.js",
+		"/home/dyballd/projects/world/bauhaus/apps/search/management/commands/update_suggested_searches_in_index.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/cms/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/management/commands/update_search.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/urls.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/models.py",
+		"/home/dyballd/projects/world/bauhaus/urls/main.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/urls.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/views/mixins.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/management/commands/manage_sales.py",
+		"/home/dyballd/projects/world/bauhaus/apps/blog/templatetags/blog_tags.py",
+		"/home/dyballd/projects/world/bauhaus/apps/activity/utils.py",
+		"/home/dyballd/projects/world/bauhaus/apps/artists/tests/factories.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch_dsl/search.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch_dsl/result.py",
+		"/home/dyballd/.virtualenvs/world/lib/python2.7/site-packages/elasticsearch/__init__.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/utils.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/views/api.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/tests/api_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/tests/crm_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/tests/mixins.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/tests/api_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/views/browse.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/views/detail.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/views/crm.py",
+		"/home/dyballd/projects/world/bauhaus/apps/endpoints/__init__.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/views/__init__.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/tests/document_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/tests/utils_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/views.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/queries.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/forms.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/tests/searcher_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/tests/browse_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/thumbnails/templatetags/thumbor.py",
+		"/home/dyballd/projects/world/bauhaus/apps/dashboard/urls.py",
+		"/home/dyballd/projects/world/bauhaus/apps/cms/tests/factories.py",
+		"/home/dyballd/projects/world/bauhaus/apps/shipping/models.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v1/shipping/documents/commercial-invoice-return.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v1/shipping/documents/commercial-invoice.html",
+		"/home/dyballd/projects/world/bauhaus/apps/shipping/utils.py",
+		"/home/dyballd/projects/world/bauhaus/apps/products/price.py",
+		"/home/dyballd/projects/world/bauhaus/apps/artists/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/discover/partials/discover_card.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/discover/partials/discover_carousel.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/discover/home.html",
+		"/home/dyballd/projects/world/bauhaus/apps/thumbnails/thumbor.py",
+		"/home/dyballd/projects/world/bauhaus/apps/order/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/checkout/serializers.py",
+		"/home/dyballd/projects/world/bauhaus/apps/cms/models.py",
+		"/home/dyballd/projects/world/bauhaus/apps/search/paginator.py",
+		"/home/dyballd/projects/world/bauhaus/configs/settings.py",
+		"/home/dyballd/projects/world/bauhaus/lib/sluggable/models.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/models.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/products/browse/form.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/forms/foundation_field_checkbox_namespaced_resettable.html",
+		"/home/dyballd/projects/world/bauhaus/apps/collection/utils.py",
+		"/home/dyballd/projects/world/tools/postgres2redshift/cron_runner.sh",
+		"/home/dyballd/projects/world/bauhaus/lib/ship_happens/tests/parcelbright_tests.py",
+		"/home/dyballd/projects/world/bauhaus/apps/marketing/filters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/accounts/presenters.py",
+		"/home/dyballd/projects/world/bauhaus/apps/profiles/views/base.py",
+		"/home/dyballd/projects/world/bauhaus/apps/collection/views/detail.py",
+		"/home/dyballd/projects/world/bauhaus/apps/collection/urls.py",
+		"/home/dyballd/projects/world/bauhaus/apps/checkout/mixins.py",
+		"/home/dyballd/projects/world/bauhaus/templates/_javascript/google_tag_manager_head.html",
+		"/home/dyballd/projects/world/bauhaus/templates/_javascript/google_tag_manager_body.html",
+		"/home/dyballd/projects/world/bauhaus/apps/checkout/views.py",
+		"/home/dyballd/projects/world/bauhaus/apps/checkout/paypal_views.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/products/browse/form_B.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/products/browse/home.html",
+		"/home/dyballd/projects/world/bauhaus/templates/nunjucks/browse/mobile_filter_button.html",
+		"/home/dyballd/projects/world/bauhaus/static/js_framework/apps/browse/views.js",
+		"/home/dyballd/projects/world/bauhaus/static/v2/scss/includes/af-forms.scss",
+		"/home/dyballd/projects/world/bauhaus/apps/products/views/mixins.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/products/browse/subcategories_form.html",
+		"/home/dyballd/projects/world/bauhaus/lib/common/context_processors.py",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/navigation/discover_links.html",
+		"/home/dyballd/projects/world/bauhaus/templates/foundation5/v2/products/browse/form_C.html",
+		"/home/dyballd/projects/world/bauhaus/apps/search/views.py",
+		"/home/dyballd/projects/world/bauhaus/apps/discover/urls.py",
+		"/home/dyballd/projects/world/bauhaus/apps/artists/urls.py"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 195.0,
+		"where_history":
+		[
+			"*.py",
+			"products/*.py",
+			"*.py",
+			"",
+			"*.py",
+			"*",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*/models.py",
+			"",
+			"*.html",
+			"*.css",
+			"*.js",
+			"*.scss",
+			"*.css",
+			"*.html",
+			"",
+			"*.py",
+			"",
+			"*.html",
+			"*.py",
+			"*.html",
+			"",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*tests*",
+			"tests*.py",
+			"",
+			"*.html",
+			"*.hyml",
+			"*.html",
+			"",
+			"*.html",
+			"",
+			"*.py",
+			"*.json",
+			"tests/*.py",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"",
+			"*.html",
+			"templates*.html",
+			"",
+			"*.css",
+			"",
+			"*.py",
+			"templates/*.html",
+			"*.py",
+			"",
+			"*/models.py",
+			"",
+			"*.py",
+			"*\\.py",
+			"",
+			"*templates*",
+			"",
+			"products.searchers.BaseProductSearcher",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"aggregation_key",
+			"bauhaus/apps/search/data/feature_aggregations_response.json",
+			"get_response_with_documents",
+			"provider_slug",
+			"bugsnag",
+			"AnonymousUser",
+			"get_serializer_context",
+			"get_serializer",
+			"ElasticsearchProductListAPIView",
+			"recently",
+			"commercial-invoice",
+			"thumbor_from_path",
+			"ProductWithMainImageFactory",
+			"FeatureDocumentPresenter",
+			"SuggestedSearch",
+			"urlencode",
+			"SeoMetaDataPresenter",
+			"SeoMetaDataPresneter",
+			"SeoMetadataPresneter",
+			"ChildFeatureSearcher",
+			"synonyms_token_filter",
+			"search-autocomplete",
+			"GenericRelation",
+			"plural",
+			"Sluggable",
+			"FeatureDocument",
+			"trade_plan",
+			"book_automated_shipment",
+			"generate_and_save_commercial_invoice_for_shipment",
+			"generate_commercial_invoice_for_shipment",
+			"generate_commercial_invoice",
+			"commercial-invoice",
+			"get_collections_for_user",
+			"UserLike",
+			"USERLIKE_CHECKOUT_VARIANT_CODE",
+			"reverse",
+			"ThemeSearcher",
+			"ThemePresenter",
+			"ThemeSearcher",
+			"RecentlActivity",
+			"RecentlAct",
+			"Price",
+			"get_build_query_kwargs",
+			"RecentlyActivity",
+			"GET_PRODUCT_RECOMMENDATIONS_FOR_PRODUCT",
+			"get_similar_artworks",
+			"update",
+			"CollectionContentPage",
+			"build_query",
+			"_apply_mandatory_filters",
+			"generate_default_collections",
+			"side_effect",
+			"CollectionContentPage",
+			"FeaturedCollection",
+			"BasketedProductPresenter",
+			"get_presenter",
+			"GraphQueryTimeoutException",
+			"MoreLikeThis",
+			"more_like_this",
+			"MoreLike",
+			"MLT",
+			"MAXIMUM_LAST_PAGE\nELASTICSEARCH_MAXIMUM_LAST_PAGE",
+			"MAXIMUM_LAST_PAGE\nMAXIMUM_LAST_PAGE",
+			"MAXIMUM_LAST_PAGE\nMAXIMUM_LASTE_PAGE",
+			"taggit",
+			"WebTest",
+			"SmartBrowseRedirectMixin",
+			"user_currency",
+			"request*user_currency",
+			"get_status_summary",
+			"rescore",
+			"CollectionDetailView",
+			"memoize",
+			"SmartBrowseRedirect",
+			"include",
+			"floating",
+			"small-offset-3",
+			"small-3",
+			"image-drop-target-large",
+			"image-drop-target-small",
+			"placeAlert",
+			"af-relative-wrapper",
+			"truncate",
+			"js-carousel-1-4-6",
+			"js-products-1-4-6",
+			"af-products-carousel",
+			"scrollable",
+			"SmartBrowseRedirectMixin",
+			"get_presenter",
+			"is_product_collected",
+			"flatten_product",
+			"is_product_collected",
+			"ProductSerializer",
+			"get_serializer_context",
+			"BaseEndpointMixin",
+			"BaseEdnpointMixin",
+			"get_presenter",
+			"Product*Presenter",
+			"Presenter",
+			"is_collected",
+			"to_representation",
+			"opengraph_image.html",
+			"collected_obj",
+			"def get_presenter",
+			"is_product_collected",
+			"thumbor_from_path",
+			"get_social_type",
+			"get_full_share_url",
+			"share_image_url",
+			"skipped",
+			"process_refund",
+			"getParametersAsArray",
+			"collectProductCardsData",
+			"collectedProductCardsData",
+			"FakeRequest",
+			"is_collected",
+			"url",
+			"assets-upload",
+			"reverse.js",
+			"js_reverse",
+			"SmartBrowseRedirectMixin",
+			"ProductView",
+			"ProductDetail",
+			"reverse.js",
+			"StaticSitemap",
+			"products_nested",
+			"newrelic.agent",
+			"receiver"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"bauhaus/apps/search/tests/data/feature_aggregations_response.json",
+			"get_fake_response_with_documents",
+			"RecentActivity",
+			"RecentlActivity",
+			"small-offset-4",
+			"small-4",
+			"image-drop-target",
+			"Recently",
+			"assertFalse",
+			"_assert_on_duplicate_tweet",
+			"tweet_data",
+			"self.product_limit",
+			"1.3",
+			"get_url_for_view",
+			"products.views.api",
+			"_assert_match_query_in_elastic_query_should_query_section",
+			" = ",
+			"</div>",
+			" = ",
+			"= ",
+			"BaseAPIListView",
+			"collection.helpers.UserCollectionHelper",
+			"collection.helpers.ArtistCollectionHelper",
+			"collection.helpers.UserCollectionHelper",
+			"CollectedProductHelperBase",
+			"ArtistCollectionHelper",
+			"UserCollectionHelper",
+			"HelperBase",
+			"h3",
+			"table",
+			"table_head",
+			"table_heading",
+			"table_row",
+			"table_cell",
+			"<div class=\"divTableCell\" colspan=\"",
+			"<div class=\"divTableHeading\" colspan=\"",
+			"<div class=\"divTableHeading\">",
+			"</div>",
+			"<div class=\"divTableCell\" style=\"",
+			"<div class=\"divTable\">",
+			"</div>",
+			"<div class=\"divTableRow\">",
+			"</div>",
+			"<div class=\"divTableCell\">",
+			"/div",
+			"h3",
+			"cls",
+			"products.searchers.ProductTermSearcher()",
+			"products.searchers.FilteredProductSearcher()",
+			"products.searchers.BaseProductSearcher",
+			"products.searchers",
+			"FromGraph",
+			"'",
+			"graph",
+			"cls",
+			"self",
+			"cls",
+			"self",
+			"cls",
+			"must(",
+			"cls"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from kivy.app import App",
+							"git_gutter_is_enabled": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 7
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sequencer.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 17
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 160.0
+	},
+	"output.git-merge":
+	{
+		"height": 160.0
+	},
+	"output.git-pull":
+	{
+		"height": 160.0
+	},
+	"output.git-push":
+	{
+		"height": 160.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "pyseq.sublime-project",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"search/tests/search",
+				"bauhaus/apps/search/tests/searcher_tests.py"
+			],
+			[
+				"search/test/mixi",
+				"bauhaus/apps/search/tests/mixins.py"
+			],
+			[
+				"search/tests/fact",
+				"bauhaus/apps/search/tests/factories.py"
+			],
+			[
+				"discover/tests/searcher",
+				"bauhaus/apps/discover/tests/searcher_tests.py"
+			],
+			[
+				"searchapi_tests",
+				"bauhaus/apps/search/tests/api_tests.py"
+			],
+			[
+				"documents",
+				"bauhaus/apps/search/documents.py"
+			],
+			[
+				"products/presenters",
+				"bauhaus/apps/products/presenters.py"
+			],
+			[
+				"profiles/factor",
+				"bauhaus/apps/profiles/tests/factories.py"
+			],
+			[
+				"history",
+				"bauhaus/apps/profiles/history.py"
+			],
+			[
+				"products/searchers",
+				"bauhaus/apps/products/searchers.py"
+			],
+			[
+				"products/factorie",
+				"bauhaus/apps/products/tests/factories.py"
+			],
+			[
+				"accounts/factori",
+				"bauhaus/apps/accounts/tests/factories.py"
+			],
+			[
+				"products/tests/factp",
+				"bauhaus/apps/products/tests/factories.py"
+			],
+			[
+				"products/models",
+				"bauhaus/apps/products/models.py"
+			],
+			[
+				"checkout/models",
+				"bauhaus/apps/checkout/models.py"
+			],
+			[
+				"products/api_tests",
+				"bauhaus/apps/products/tests/api_tests.py"
+			],
+			[
+				"views/api",
+				"bauhaus/apps/products/views/api.py"
+			],
+			[
+				"products/views/api",
+				"bauhaus/apps/products/views/api.py"
+			],
+			[
+				"endpoints/views/api",
+				"bauhaus/apps/endpoints/views/api.py"
+			],
+			[
+				"local_sett",
+				"bauhaus/configs/development/local_settings.py"
+			],
+			[
+				"search_mixin",
+				"bauhaus/apps/search/search_mixins.py"
+			],
+			[
+				"discover/search",
+				"bauhaus/apps/discover/searchers.py"
+			],
+			[
+				"docume",
+				"bauhaus/apps/search/documents.py"
+			],
+			[
+				"searchapi.py",
+				"bauhaus/apps/search/views/api.py"
+			],
+			[
+				"api.py",
+				"bauhaus/urls/api.py"
+			],
+			[
+				"analys",
+				"bauhaus/apps/search/analysis.py"
+			],
+			[
+				"search/tests/utils",
+				"bauhaus/apps/search/tests/utils_tests.py"
+			],
+			[
+				"search/searcher_tests",
+				"bauhaus/apps/search/tests/searcher_tests.py"
+			],
+			[
+				"presenters_tests",
+				"bauhaus/apps/discover/tests/presenters_tests.py"
+			],
+			[
+				"search/searche",
+				"bauhaus/apps/search/searchers.py"
+			],
+			[
+				"search/tests/facto",
+				"bauhaus/apps/search/tests/factories.py"
+			],
+			[
+				"search/api_tests",
+				"bauhaus/apps/search/tests/api_tests.py"
+			],
+			[
+				"response.p",
+				"bauhaus/apps/search/response.py"
+			],
+			[
+				"search/api",
+				"bauhaus/apps/search/views/api.py"
+			],
+			[
+				"aggregation_",
+				"bauhaus/apps/search/tests/data/feature_aggregations_response.json"
+			],
+			[
+				"data/feat",
+				"bauhaus/apps/search/tests/data/feature_aggregations_response.json"
+			],
+			[
+				"discover/factor",
+				"bauhaus/apps/discover/tests/factories.py"
+			],
+			[
+				"discover/factorie",
+				"bauhaus/apps/discover/tests/factories.py"
+			],
+			[
+				"search/tests/data/",
+				"bauhaus/apps/search/tests/data/product_document_response.json"
+			],
+			[
+				"products/factor",
+				"bauhaus/apps/products/tests/factories.py"
+			],
+			[
+				"discover/presenters_",
+				"bauhaus/apps/discover/tests/presenters_tests.py"
+			],
+			[
+				"discover/searchers",
+				"bauhaus/apps/discover/searchers.py"
+			],
+			[
+				"discover/presenters",
+				"bauhaus/apps/discover/presenters.py"
+			],
+			[
+				"vue/quic",
+				"bauhaus/static/vue/quicksearch/app.js"
+			],
+			[
+				"result.js",
+				"bauhaus/static/vue/quicksearch/components/results.js"
+			],
+			[
+				"result_ite",
+				"bauhaus/static/vue/quicksearch/components/result_item.js"
+			],
+			[
+				"componentresult",
+				"bauhaus/static/vue/quicksearch/components/result_item.js"
+			],
+			[
+				"results.js",
+				"bauhaus/static/vue/quicksearch/components/results.js"
+			],
+			[
+				"local_set",
+				"bauhaus/configs/development/local_settings.py"
+			],
+			[
+				"cms/presenter",
+				"bauhaus/apps/cms/presenters.py"
+			],
+			[
+				"search/searchers",
+				"bauhaus/apps/search/searchers.py"
+			],
+			[
+				"searhc/serial",
+				"bauhaus/apps/search/serializers.py"
+			],
+			[
+				"result",
+				"bauhaus/static/vue/quicksearch/components/results.js"
+			],
+			[
+				"local",
+				"bauhaus/configs/development/local_settings.py"
+			],
+			[
+				"update_sugges",
+				"bauhaus/apps/search/management/commands/update_suggested_searches_in_index.py"
+			],
+			[
+				"update_search",
+				"bauhaus/apps/search/management/commands/update_search.py"
+			],
+			[
+				"products/urls",
+				"bauhaus/apps/products/urls.py"
+			],
+			[
+				"urls/main",
+				"bauhaus/urls/main.py"
+			],
+			[
+				"discover/models",
+				"bauhaus/apps/discover/models.py"
+			],
+			[
+				"discover/present",
+				"bauhaus/apps/discover/presenters.py"
+			],
+			[
+				"search/factor",
+				"bauhaus/apps/search/tests/factories.py"
+			],
+			[
+				"response",
+				"bauhaus/apps/search/response.py"
+			],
+			[
+				"products/factories",
+				"bauhaus/apps/products/tests/factories.py"
+			],
+			[
+				"products/tests/api",
+				"bauhaus/apps/products/tests/api_tests.py"
+			],
+			[
+				"manage_sales",
+				"bauhaus/apps/products/management/commands/manage_sales.py"
+			],
+			[
+				"doc",
+				"bauhaus/apps/search/documents.py"
+			],
+			[
+				"search_mixins",
+				"bauhaus/apps/products/search_mixins.py"
+			],
+			[
+				"producsearchers",
+				"bauhaus/apps/products/searchers.py"
+			],
+			[
+				"endpoints/urls",
+				"bauhaus/apps/endpoints/urls.py"
+			],
+			[
+				"pdate_search",
+				"bauhaus/apps/search/management/commands/update_search.py"
+			],
+			[
+				"discover/presenter",
+				"bauhaus/apps/discover/presenters.py"
+			],
+			[
+				"artists/tests/factor",
+				"bauhaus/apps/artists/tests/factories.py"
+			],
+			[
+				"search/tests/factor",
+				"bauhaus/apps/search/tests/factories.py"
+			],
+			[
+				"activity/utils",
+				"bauhaus/apps/activity/utils.py"
+			],
+			[
+				"search/utils",
+				"bauhaus/apps/search/utils.py"
+			],
+			[
+				"endp/urls",
+				"bauhaus/apps/endpoints/urls.py"
+			],
+			[
+				"accounts/tests/factor",
+				"bauhaus/apps/accounts/tests/factories.py"
+			],
+			[
+				"products/presenter",
+				"bauhaus/apps/products/presenters.py"
+			],
+			[
+				"products/tests/factor",
+				"bauhaus/apps/products/tests/factories.py"
+			],
+			[
+				"lib/track/utils",
+				"bauhaus/lib/track/utils.py"
+			],
+			[
+				"crm_tests",
+				"bauhaus/apps/endpoints/tests/crm_tests.py"
+			],
+			[
+				"endpoints/tests",
+				"bauhaus/apps/endpoints/tests/api_tests.py"
+			],
+			[
+				"endpints/views/ap",
+				"bauhaus/apps/endpoints/views/api.py"
+			],
+			[
+				"endpoints/crm",
+				"bauhaus/apps/endpoints/views/crm.py"
+			],
+			[
+				"products/views/deta",
+				"bauhaus/apps/products/views/detail.py"
+			],
+			[
+				"products/views/browse",
+				"bauhaus/apps/products/views/browse.py"
+			],
+			[
+				"endpoints/seria",
+				"bauhaus/apps/endpoints/serializers.py"
+			],
+			[
+				"endpoints/api",
+				"bauhaus/apps/endpoints/views/api.py"
+			],
+			[
+				"search/response",
+				"bauhaus/apps/search/response.py"
+			],
+			[
+				"endpoints/serial",
+				"bauhaus/apps/endpoints/serializers.py"
+			],
+			[
+				"product/seria",
+				"bauhaus/apps/products/serializers.py"
+			],
+			[
+				"accounts/serial",
+				"bauhaus/apps/accounts/serializers.py"
+			],
+			[
+				"profiles/histo",
+				"bauhaus/apps/profiles/history.py"
+			],
+			[
+				"endpoints/views/ap",
+				"bauhaus/apps/endpoints/views/api.py"
+			],
+			[
+				"search/views/ap",
+				"bauhaus/apps/search/views/api.py"
+			],
+			[
+				"accounts/views/__",
+				"bauhaus/apps/accounts/views/__init__.py"
+			],
+			[
+				"cms/presen",
+				"bauhaus/apps/cms/presenters.py"
+			],
+			[
+				"update_suggeste",
+				"bauhaus/apps/search/management/commands/update_suggested_searches_in_index.py"
+			],
+			[
+				"result_item",
+				"bauhaus/static/vue/quicksearch/components/result_item.js"
+			],
+			[
+				"components/result",
+				"bauhaus/static/vue/quicksearch/components/results.js"
+			],
+			[
+				"main.py",
+				"bauhaus/urls/main.py"
+			],
+			[
+				"search/views/api",
+				"bauhaus/apps/search/views/api.py"
+			],
+			[
+				"search/seria",
+				"bauhaus/apps/search/serializers.py"
+			],
+			[
+				"endpo/url",
+				"bauhaus/apps/endpoints/urls.py"
+			],
+			[
+				"disco/sear",
+				"bauhaus/apps/discover/searchers.py"
+			],
+			[
+				"dis/search_mi",
+				"bauhaus/apps/discover/search_mixins.py"
+			],
+			[
+				"search_mixi",
+				"bauhaus/apps/discover/search_mixins.py"
+			],
+			[
+				"document",
+				"bauhaus/apps/search/tests/document_tests.py"
+			],
+			[
+				"discover/seria",
+				"bauhaus/apps/discover/serializers.py"
+			],
+			[
+				"search/ser",
+				"bauhaus/apps/search/serializers.py"
+			],
+			[
+				"quicksearch/",
+				"bauhaus/static/vue/quicksearch/components/result_item.js"
+			],
+			[
+				"quicksearch/compon",
+				"bauhaus/static/vue/quicksearch/components/results.js"
+			],
+			[
+				"search/utils_te",
+				"bauhaus/apps/search/tests/utils_tests.py"
+			],
+			[
+				"utils_tests",
+				"bauhaus/apps/accounts/tests/utils_tests.py"
+			],
+			[
+				"endpoin/url",
+				"bauhaus/apps/endpoints/urls.py"
+			],
+			[
+				"disc/searh",
+				"bauhaus/apps/discover/searchers.py"
+			],
+			[
+				"search/utils_tests",
+				"bauhaus/apps/search/tests/utils_tests.py"
+			],
+			[
+				"discover/views",
+				"bauhaus/apps/discover/views.py"
+			],
+			[
+				"search/api_tests.py",
+				"bauhaus/apps/search/tests/api_tests.py"
+			],
+			[
+				"search/queries",
+				"bauhaus/apps/search/queries.py"
+			],
+			[
+				"products/tests/br",
+				"bauhaus/apps/products/tests/browse_tests.py"
+			],
+			[
+				"products/forms",
+				"bauhaus/apps/products/forms.py"
+			],
+			[
+				"products/tests/searcher_tests",
+				"bauhaus/apps/products/tests/searcher_tests.py"
+			],
+			[
+				"products/views/br",
+				"bauhaus/apps/products/views/browse.py"
+			],
+			[
+				"discpresenters",
+				"bauhaus/apps/discover/presenters.py"
+			],
+			[
+				"cms/presenters",
+				"bauhaus/apps/cms/presenters.py"
+			],
+			[
+				"update_sugge",
+				"bauhaus/apps/search/management/commands/update_suggested_searches_in_index.py"
+			],
+			[
+				"thumbor.py",
+				"bauhaus/apps/thumbnails/templatetags/thumbor.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 3060.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "ipdb",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": "(",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/home/dyballd/projects/world/bauhaus/apps/products"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 489.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

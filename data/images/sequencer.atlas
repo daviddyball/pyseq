@@ -1,0 +1,11 @@
+{
+    "sequencer-0.png": {
+        "step_indicator": [206, 196, 100, 100],
+        "step_indicator_beat": [104, 196, 100, 100],
+        "pianoroll_key_black": [2, 298, 100, 100],
+        "pianoroll_key_white": [104, 298, 100, 100],
+        "step_playing": [2, 94, 100, 100],
+        "step_inactive": [2, 196, 100, 100],
+        "step_active": [206, 298, 100, 100]
+    }
+}

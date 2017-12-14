@@ -1,0 +1,159 @@
+#:kivy 1.10.0
+
+<SequencerSpinner@Spinner>:
+	text: 'Sequencer #0'
+	on_text: app.switch_sequencer(self.text)
+
+
+<PianoRollKey@ToggleButton>:
+	disabled: True
+
+
+<PianoRollKeyBlack@PianoRollKey>:
+	texture: 'atlas://data/images/sequencer/pianoroll_key_black'
+
+
+<PianoRollKeyWhite@PianoRollKey>:
+	texture: 'atlas://data/images/sequencer/pianoroll_key_white'
+
+
+<PianoRoll@BoxLayout>:
+	orientation: 'vertical'
+	width: '50dp'
+	size_hint_x: None
+
+	PianoRollKeyWhite:
+		text: 'B'
+	PianoRollKeyBlack:
+		text: 'A#'
+	PianoRollKeyWhite:
+		text: 'A'
+	PianoRollKeyBlack:
+		text: 'G#'
+	PianoRollKeyWhite:
+		text: 'G'
+	PianoRollKeyWhite:
+		text: 'F'
+	PianoRollKeyWhite:
+		text: 'E'
+	PianoRollKeyBlack:
+		text: 'D#'
+	PianoRollKeyWhite:
+		text: 'D'
+	PianoRollKeyBlack:
+		text: 'C#'
+	PianoRollKeyWhite:
+		text: 'C'
+
+
+<StepButton@ToggleButton>:
+	text: '{}'.format(self.parent.step_id)
+	group: 'step_{}'.format(self.parent.step_id)
+	on_state: app.sequence_step(*args)
+
+
+<StepWidget@BoxLayout>:
+	orientation: 'vertical'
+	StepButton:
+		note_offset_id: 10
+	StepButton:
+		note_offset_id: 9
+	StepButton:
+		note_offset_id: 8
+	StepButton:
+		note_offset_id: 7
+	StepButton:
+		note_offset_id: 6
+	StepButton:
+		note_offset_id: 5
+	StepButton:
+		note_offset_id: 4
+	StepButton:
+		note_offset_id: 3
+	StepButton:
+		note_offset_id: 2
+	StepButton:
+		note_offset_id: 1
+	StepButton:
+		note_offset_id: 0
+
+
+
+<Menu@BoxLayout>:
+	# Arguments
+	size_hint_y: 0.1
+
+	# References
+	transport_button: transport_button
+	display: display
+	sequencer_spinner: sequencer_spinner
+
+	TransportButton:
+		id: transport_button
+		text: 'Play'
+
+	BoxLayout:
+		orientation: 'vertical'
+		id: display
+		Label:
+			id: lbl_current_beat
+			text: '-'
+		BoxLayout:
+			Label:
+				id: lbl_octave
+				text: 'Octave: 0'
+			Label:
+				id: lbl_bar
+				text: 'Bar: -/-'
+	SequencerSpinner:
+		id: sequencer_spinner
+
+
+<SequencerView>:
+	# Arguments
+	orientation: 'vertical'
+
+	# References
+	menu: menu
+	piano_roll: piano_roll
+	step_container: step_container
+	btn_octave_up: btn_octave_up
+	btn_octave_down: btn_octave_down
+	btn_bar_next: btn_bar_next
+	btn_bar_previous: btn_bar_previous
+
+	# Children
+	Menu:
+		id: menu
+	BoxLayout:
+		orientation: 'vertical'
+		BoxLayout:
+			orientation: 'horizontal'
+			PianoRoll:
+				id: piano_roll
+			BoxLayout:
+				id: step_container
+			BoxLayout:
+				size_hint_x: 0.1
+				id: up_down_nav
+				orientation: 'vertical'
+				Button:
+					id: btn_octave_up
+					text: '/\\'
+					on_state: app.octave_up(*args)
+				Button:
+					id: btn_octave_down
+					on_state: app.octave_down(*args)
+					text: '\\/'
+		BoxLayout:
+			id: left_right_nav
+			orientation: 'horizontal'
+			size_hint_y: 0.1
+			Button:
+				id: btn_bar_previous
+				on_state: app.previous_bar(*args)
+				text: '<'
+			Button:
+				id: btn_bar_next
+				on_state: app.next_bar(*args)
+				text: '>'
